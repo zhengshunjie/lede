@@ -153,6 +153,7 @@ jobs:
           CONFIG_PACKAGE_luci-app-ramfree=y
           CONFIG_PACKAGE_luci-app-samba=y
           CONFIG_PACKAGE_luci-app-sfe=y
+          CONFIG_PACKAGE_luci-app-usb-printer=y
 
           # CONFIG_PACKAGE_luci-app-baidupcs-web=y
           # CONFIG_PACKAGE_luci-app-docker=y
